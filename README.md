@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on several projects from the University of Toronto Data Analytics & Visualizations Bootcamp. 
 - 🌱 I’m currently learning & transitioning into the world of Data Analytics and Coding.
 - 👯 I’m looking to collaborate with like mind individuals who like learn and teach along the way.
 - 😄 Pronouns: she/her
