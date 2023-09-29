@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on several projects from the University of Toronto Data Analytics & Visualizations Bootcamp. 
-- 🌱 I’m currently learning & transitioning into the world of Data Analytics and Coding.
+- 🌱 I’m currently learning & transitioning into the world of Data Analytics using and learning Python, Pandas, SQL, Machine Learning and Neural Networks.
 - 👯 I’m looking to collaborate with like minded individuals who like to learn and teach along the way.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: mehpree88@icloud.com
