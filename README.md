@@ -7,3 +7,4 @@
 - 📫 How to reach me: mehpree88@icloud.com
 - ⚡ Fun fact: The mascot of GitHub is a female cat with 5 octopus-like arms. It was created by freelance graphic designer Simon Oxley (who also designed Twitter’s bird) to sell on iStock. GitHub became interested in his work named Octopuss. They bought exclusive rights and renamed it to Octocat. 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mehpree)](https://git.io/streak-stats)
