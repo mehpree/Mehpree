@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](www.linkedin.com/in/manpreet-sharma)
 [![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)](https://pronoun.is/she/her)
 
-<p align="center"> :octocat: <b> <a href="https://www.brennanbrown.ca/resume.pdf">RESUME</a>  :octocat: </p>
+<p align="center"> :octocat: <b> :octocat: </p>
 
 
 ### [Hi there 👋](https://github.com/mehpree/Mehpree#hi-there-)
