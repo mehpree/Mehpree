@@ -16,10 +16,15 @@
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehpree&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
+
 ## Technologies I'm Learning :books:
 
-#### Software: ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
-#### Front-end: ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+#### Software: 
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
+
+#### Front-end: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 
 #### Back-end:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
@@ -34,10 +39,7 @@
 <hr>
 
 ### Currently Reading :bookmark_tabs:
+* [Learn Flask | Codecademy](https://www.codecademy.com/learn/learn-flask)
+* [Leaf Disease Detection Flask App - with source code - 2023 - Machine Learning Projects](https://machinelearningprojects.net/leaf-disease-detection-flask-app/)
+* [Image Processing — Template Matching | by Ralph Caubalejo | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/image-processing-template-matching-aac0c1cbe2c0)
 
-[Learn Flask | Codecademy](https://www.codecademy.com/learn/learn-flask)
-[Leaf Disease Detection Flask App - with source code - 2023 - Machine Learning Projects](https://machinelearningprojects.net/leaf-disease-detection-flask-app/)
-[Image Processing — Template Matching | by Ralph Caubalejo | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/image-processing-template-matching-aac0c1cbe2c0)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehpree&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
