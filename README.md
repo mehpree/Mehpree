@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mehpree&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
 
-## Technologies I'm Learning :books:
+### Technologies I'm Learning :books:
 
 #### Software: 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
